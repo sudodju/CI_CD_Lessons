@@ -1,4 +1,4 @@
-name: Go
+name: Go-for-branch-new_workflow
 
 on:
   push:
