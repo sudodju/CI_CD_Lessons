@@ -4,10 +4,10 @@ func main() {
 
 }
 
-func MaxInt(a, x int) int {
-	if a >= x {
+func MaxInt(a, b int) int {
+	if a >= b {
 		return a
 	}
 
-	return x
+	return b
 }
